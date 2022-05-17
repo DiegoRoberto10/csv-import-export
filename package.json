@@ -1,0 +1,20 @@
+{
+  "name": "read-csv",
+  "version": "1.0.0",
+  "description": "Exemple for read CSV",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRoberto10/read-csv.git"
+  },
+  "keywords": ["csv"],
+  "author": "Diego Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoRoberto10/read-csv/issues"
+  },
+  "homepage": "https://github.com/DiegoRoberto10/read-csv#readme"
+}
